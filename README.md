@@ -1,1 +1,1 @@
-# lending-club-loan-classification
+# lending-club-credit-decision
